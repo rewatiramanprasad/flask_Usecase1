@@ -1,0 +1,8 @@
+config/config.json
+employee/__pycache__/SQLcontroler.cpython-37.pyc
+employee/__pycache__/controller.cpython-37.pyc
+utility/__pycache__/db.cpython-37.pyc
+employee/__pycache__/routes.cpython-37.pyc
+employee/__pycache__/error_handler.cpython-37.pyc
+utility/__pycache__
+.vscode
